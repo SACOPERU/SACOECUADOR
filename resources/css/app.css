@@ -1,0 +1,16 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import 'container.css';
+@import 'nav.css';
+@import 'forms.css';
+@import 'button-77.css';
+@import 'reloj';
+@import 'cuadro.css';
+@import 'wsp.css';
+@import 'facebook.css';
+@import 'button-63.css';
+
+
+

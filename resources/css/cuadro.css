@@ -1,0 +1,6 @@
+.cuadro {
+  width: 1500px;           /* Ancho de 150 píxeles */
+  height: 700px;      /* Alto de 150 píxeles */
+  background: blue;        /* Fondo de color rojo */
+  border: 1px solid #000; /* Borde color negro y de 1 píxel de grosor */
+}
